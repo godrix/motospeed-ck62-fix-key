@@ -8,45 +8,47 @@
 sudo apt install autokey-gtk
 ```
 
-| Key           | Hotkey        | 
-| ------------- |:-------------:| 
-| `Home`        |  -            | 
-| `End`         |  -            | 
-| `Insert`      |  -            | 
-| `PageUp`      |  -            | 
-| `PageDown`    |  -            | 
-| `Delete`      |  -            | 
-| `Del`         |  -            | 
-| `Del`         |  -            | 
-| ⬆️             |  -            |  
-| ⬅️             |  -            |  
-| ➡️             |  -            |  
-| ⬇️             |  -            |  
-| F1            |  -            |  
-| F2            |  -            |  
-| F3            |  -            |  
-| F4            |  -            |  
-| F5            |  -            |  
-| F6            |  -            |  
-| F7            |  -            |  
-| F8            |  -            |  
-| F9            |  -            |  
-| F10           |  -            |  
-| F11           |  -            |  
-| F12           |  -            |    
-| ~             |  -            |  
-| ^             |  -            |  
-| `             |  -            | 
+Download folder Motospeed-ck62 and put it in the `.config` > `autokey` > `data` in home directory
 
-> For accented characters used in Portuguese for example use the ```composition key``` configuration available with Tweeks on ```keyboard and mouse``` and activate the option ```Tecla de composição```
+| Key           | Hotkey                | 
+| ------------- |:---------------------:| 
+| `Home`        |  `Alt`+`l`            | 
+| `End`         |  `Alt`+`.`            | 
+| `Insert`      |  `Alt`+`k`            | 
+| `PageUp`      |  `Alt`+`;`            | 
+| `PageDown`    |  `Alt`+`'`            | 
+| `Delete`      |  `Alt`+`,`            | 
+| `Pause Break` |  `Alt`+`]`            | 
+| `Print Screen`|  `Alt`+`[`            | 
+| ⬆️             |  `Alt`+`/`            |  
+| ⬅️             |  🚫            |  
+| ➡️             |  `Alt`+`Right Ctrl`   |  
+| ⬇️             |  `Alt`+`Menu`         |  
+| F1            |  `Alt`+`1`            |  
+| F2            |  `Alt`+`2`            |  
+| F3            |  `Alt`+`3`            |  
+| F4            |  `Alt`+`4`            |  
+| F5            |  `Alt`+`5`            |  
+| F6            |  `Alt`+`6`            |  
+| F7            |  `Alt`+`7`            |  
+| F8            |  `Alt`+`8`            |  
+| F9            |  `Alt`+`9`            |  
+| F10           |  `Alt`+`0`            |  
+| F11           |  `Alt`+`-`            |  
+| F12           |  `Alt`+`=`            | 
+| `             |  `Ctrl`+`Esc`         |    
+| ~             |  `Ctrl`+`Shift`+`Esc` |  
+
+
+|  WASD         |  Hotkey       | 
+| ------------- |:-------------:| 
+| ⬆️             |  `Alt`+`w`    |  
+| ⬅️             |  `Alt`+`a`    |  
+| ➡️             |  `Alt`+`d`    |  
+| ⬇️             |  `Alt`+`s`    |  
+
+> For accented characters used in Portuguese for example use the ```composition key``` configuration available with Tweeks on ```keyboard and mouse``` and activate the option ```Compose Key```
 
 ```shell
 sudo apt install gnome-tweaks
 ```
-
-| Key           | Hotkey        | 
-| ------------- |:-------------:| 
-| ç             |  -            | 
-| é             |  -            | 
-| á             |  -            | 
-| ç             |  -            | 
